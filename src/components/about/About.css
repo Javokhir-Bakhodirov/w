@@ -1,0 +1,19 @@
+.about__sub-title {
+	font-size: 30px;
+	font-weight: 400;
+	margin-bottom: 30px;
+}
+
+.line {
+	display: inline-block;
+}
+
+.about__title {
+	font-size: 60px;
+	font-weight: 500;
+	line-height: 72px;
+}
+
+.about__box + .about__box {
+	margin-top: 120px;
+}

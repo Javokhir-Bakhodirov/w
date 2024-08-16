@@ -1,0 +1,17 @@
+.hero__title {
+	font-size: 60px;
+	font-weight: 700;
+	line-height: 64px;
+	margin-top: 700px;
+}
+
+.hero-section {
+	height: 1000px;
+	background-image: url(../../img/hero.png);
+	background-position: center center;
+}
+
+.hero {
+	align-items: end;
+	justify-content: end;
+}
